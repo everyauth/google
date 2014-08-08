@@ -1,0 +1,34 @@
+{
+  "name": "everyauth-google",
+  "version": "0.0.0",
+  "description": "Google OAuth2 plugin for everyauth",
+  "main": "index.js",
+  "dependencies": {
+    "everyauth-oauth2": "0.0.x",
+    "request": "2.39.x"
+  },
+  "peerDependencies": {
+    "everyauth": "0.5.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/everyauth/google.git"
+  },
+  "keywords": [
+    "Google",
+    "OAuth2",
+    "OAuth",
+    "login",
+    "auth",
+    "everyauth"
+  ],
+  "author": "Brian N Noguchi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/everyauth/google/issues"
+  },
+  "homepage": "https://github.com/everyauth/google"
+}
