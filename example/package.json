@@ -1,0 +1,36 @@
+{
+  "name": "everyauth-google-example",
+  "version": "0.0.0",
+  "description": "Example for everyauth-google",
+  "main": "index.js",
+  "dependencies": {
+    "everyauth": "0.5.x",
+    "everyauth-google": "0.0.x",
+    "express": "4.x",
+    "serve-favicon": "*",
+    "body-parser": "*",
+    "cookie-parser": "*",
+    "express-session": "*",
+    "jade": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/everyauth/google.git"
+  },
+  "keywords": [
+    "everyauth",
+    "google",
+    "oauth2",
+    "oauth",
+    "express"
+  ],
+  "author": "Brian N Noguchi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/everyauth/google/issues"
+  },
+  "homepage": "https://github.com/everyauth/google"
+}
